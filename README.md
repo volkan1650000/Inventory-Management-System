@@ -87,6 +87,6 @@ readme.md :/ holds the important informations about the  project, simply here.
 
 Author: Volkan
 
-I developed the core functionalities, database integration, and backend logic for this project, aiming to showcase my expertise in Java, SQL, and backend development in simple words. The JavaFX (frontend) was created with guidance and support from an AI assistant (ChatGPT).
+I developed the core functionalities, database integration, and backend logic for this project, aiming to showcase my expertise in Java, SQL, JDBC; backend development in simple words. The JavaFX-related things like locating the buttons, setting the size, changing the background color and etc were created with guidance and support from an AI assistant (ChatGPT), I handled the backend within the UI package too
 
 
