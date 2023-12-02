@@ -7,7 +7,7 @@ Technologies and libraries used = Written in Java 11, JavaFX GUI for intuitive u
 The program runs via  the InventoryRunner class found in the Runner package
 
 
-Database Setup :
+## Database Setup :
 
 Database Creation
 
@@ -73,19 +73,7 @@ URL: "your url"
 Instructions
 Users should set up similar PostgreSQL databases for each table and modify the connection URL, username, and password accordingly in the project code. Ensure the constraints and references are appropriately defined as per the requirements in the script.
 
-
-Project Structure
-
-src/: Contains the source code of the Inventory Management System. It has packages main and test. Within the java folder there are 4 packages :
-DataBaseUtility/: Contains the database connection and utility classes.
-Model/: Includes Java classes defining entities Customer, Product, Supplier, Orders, Inventory.
-Runner/: Includes the runner class,  from which the program starts running.
-UI/: Holds the JavaFX controllers for different UI sections.
-
-pom.xml:/ holds the resources.
-readme.md :/ holds the important informations about the  project, simply here.
-
-Author: Volkan
+## Author: Volkan
 
 I developed the core functionalities, database integration, and backend logic for this project, aiming to showcase my expertise in Java, SQL, JDBC; backend development in simple words. The JavaFX-related things like locating the buttons, setting the size, changing the background color and etc were created with guidance and support from an AI assistant (ChatGPT), I handled the backend within the UI package too
 
